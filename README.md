@@ -23,3 +23,15 @@ It will be a challenge for users to match loans to each other under the exact co
 
 4.USDC:0x3e906751265955127f4Bc951C6dBBaaA94028941  
 
+## Polygon Testnet chain deployment address
+
+1、Market:0x798Bb825666bD32A106f6f6bF1995059d4749858
+
+2、Dai:0x59b5B6A7aa8E95746225fE969c2D280D75A2C83e
+
+3、Eth:0x095C37882D52bce538F804DD7ba4A3714f7De34f
+
+4、Usdc:0xd0eA8A623dE4F2565F93d30227Ceb0572068d38C
+
+
+
