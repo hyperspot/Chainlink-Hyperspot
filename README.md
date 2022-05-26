@@ -9,6 +9,10 @@ Hyperspot Platform
 
 Hyperspot is an Ethereum-based fixed-rate lending platform. A fixed interest rate is different from a variable or stable interest rate because the interest rate does not change over the term of the loan.
 
+## ChainLinkOracle
+
+Access USDC, DAI, ETH real-time prices via ChainLinkOracle for easy exchange.  
+
 ## Features
 
 It will be a challenge for users to match loans to each other under the exact conditions.Because of the large pools of liquidity, banks have traditionally acted as intermediaries - charging high fees - for borrowers and lenders to interact with them.Hyperspot eliminates intermediaries and maintains on-chain pools of liquidity that are readily available as off-the-shelf counterparties for individual users.
@@ -23,6 +27,8 @@ It will be a challenge for users to match loans to each other under the exact co
 
 4.USDC:0x3e906751265955127f4Bc951C6dBBaaA94028941  
 
+5、ChainLinkOracle：0x32d8aC1d7Befd5EC52119Ac9656F96B638EAfbFF
+
 ## Polygon Testnet chain deployment address
 
 1、Market:0x798Bb825666bD32A106f6f6bF1995059d4749858
@@ -32,6 +38,8 @@ It will be a challenge for users to match loans to each other under the exact co
 3、Eth:0x095C37882D52bce538F804DD7ba4A3714f7De34f
 
 4、Usdc:0xd0eA8A623dE4F2565F93d30227Ceb0572068d38C
+
+5、ChainLinkOracle：0x4fB00f393Afd29F24770D5Eb04E39f2eAaAc9E9d
 
 
 
