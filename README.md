@@ -20,7 +20,7 @@ It will be a challenge for users to match loans to each other under the exact co
 
 ## YouTube
 
-https://youtu.be/8jJMpHVZqv8
+https://youtu.be/4nzMJB4XSX4
 
 ## BSC chain deployment address
 
